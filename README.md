@@ -1,7 +1,7 @@
 # svg-demo
 前端开发svg动画实例
 
-由UI用AE等作出动画 然后导出svg的json和image文件。
+由设计用AE等作出动画 然后导出svg的json和image文件。
 前端利用bodymovin.js执行svg动画
 
     <div id="svgContainer"></div>
